@@ -1,5 +1,3 @@
-package com.msile.train;
-
 import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.LinearGradient;
